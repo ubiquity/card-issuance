@@ -1,6 +1,6 @@
 **About Ubiquity** 
 
-Ubiquity is a funded startup building highly automated bounties & freelance marketplace, as well as financial services. 
+Ubiquity is a venture-backed startup building a highly automated bounties & freelancer marketplace, as well as offering banking services. 
 
 Our target audience is freelancers - individuals (not businesses) that are located in different countries across the globe. 
 
