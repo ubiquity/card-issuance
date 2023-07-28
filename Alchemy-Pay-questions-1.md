@@ -24,7 +24,7 @@ Alchemy Pay off-ramp solution and partnership with DeFi protocols can be a good 
 
 The goal is to provide a global Ubiquity card. 
 We can start with these regions - Asia (ig Singapore and South Korea),  South America (ig Brazil), and Eastern Europe (ig Poland).
-We want to serve countries where freelancers are located, except all jurisdictions included in the FATF black and gray lists, Russia, Belarus.
+We want to serve countries where freelancers are located.
 
 The preferable payment methods are Visa and MasterCard as we need to perform payouts to freelancers to their cards. 
 
