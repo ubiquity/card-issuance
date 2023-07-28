@@ -17,7 +17,7 @@ First of all, we want to perform a quick launch with the basic functionality wit
 API for typical actions will be required for this step. 
 As we understand, Alchemy Pay can provide white-label virtual debit  MasterCard cards branded by Ubiquity.  
 
-In the future, we plan to develop capabilities for suitable DeFi management and advanced security. 
+In the future, we plan to develop capabilities for users to be able to manage their "checking accounts" entirely on the blockchain leveraging our stablecoin as their bank balance. 
 Alchemy Pay off-ramp solution and partnership with DeFi protocols can be a good foundation for these new capabilities. 
 
 **2. What are some important regions or payment methods that you require?**
