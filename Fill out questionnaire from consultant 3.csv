@@ -1,0 +1,29 @@
+Questions,Ubiquity answers,Notes
+1. Bank Balance (planned balance),"1,000 USD",The average amount of daily account balances.
+2. Annual Banking Volume ,"1,000,000 USD",The total amount of all incoming and outgoing payments for 1 year.
+"3. Annual FX Volume 
+Please, estimate annual volume of FX required in your main operational currency, along with Same Currency ","100,000 USD",The amount to exchange USD to local currencies to pay freelancers in local currencies for 1 year.
+4. Payment Volume. Incoming Payments,"500,000 USD",The incoming payments are payments from partners who pay for the services provided by the Ubiquity freelance marketplace.
+5. Payment Volume. Outgoing Payments,"500,000 USD","The outgoing payments are mostly payouts to freelancers that use Ubiquity freelance marketplace, as well as payments for software."
+6. Transaction Frequency per month,500,The freelancers are getting paid as soon as they complete tasks.
+7. Please provide detail of which jurisdictions your funds will be received in from and what types of company/individual,N/A,"The incoming funding will come from organizations, not individuals.
+At the moment, it is impossible to determine from which jurisdictions the funds will come.
+In any case, Ubiquity will comply with all restrictions, which are determined by the regulators."
+"8. Flow of Funds
+
+Please provide detail of whether your facility will receive/distribute payments in 1st Party (bank account in your name), 2nd Party (inter-group transactions) or 3rd party (external entity) via your ECAP facility by marking the below:
+ 1st – 1st (Y/N) 
+ 1st – 2nd (Y/N) 
+ 1st – 3rd (Y/N)
+ 2nd – 1st (Y/N) 
+ 3rd – 1st (Y/N)
+ 3rd – 3rd (Y/N)"," 1st – 1st (Y) 
+ 1st – 2nd (N) 
+ 1st – 3rd (N)
+ 2nd – 1st (Y) 
+ 3rd – 1st (N)
+ 3rd – 3rd (N)","Since Ubiquity is a startup, at the moment we can only guess how exactly it will function when the business model is established."
+"9. Please provide detail of the source of your funds, outlining how you have accumulated these monies and where they are currently situated (current bank and location)","As a startup, Ubiquity does not have a bank account at the moment.
+We are planning to open an account with a bank that matches our chosen payment and card issuing partner.
+
+The source of funds is the payments of companies that will pay for the Ubiquity freelance marketplace services.",
