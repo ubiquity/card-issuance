@@ -8,7 +8,7 @@ PST issues virtual cards for advertising accounts, affiliate marketing, and pers
 They issue a few types of cards in USD & EUR.
 
 Per information from their support, according to the terms, cards can't be used to receive regular payments from third parties.
-At the same time, top-up from myself and in some cryptocurrencies is welcomed. 
+At the same time, top-up from the user and in some cryptocurrencies is welcomed. 
 
 > Instant deposit with a crypto. Same-day deposit with cash.
 
