@@ -8,6 +8,17 @@ PST issues virtual cards for advertising accounts, affiliate marketing, and pers
 They issue a few types of cards in USD & EUR.
 
 Per information from their support, according to the terms, cards can't be used to receive regular payments from third parties.
+
+This information is got from their support which is not talkative so information can be incomplete.
+
+As I understand, the cards are aimed on spending, not collecting fiat funds.
+
+It is welcomed to top up account in crypto and spend from a card in fiat.
+Also, in their Private service, admins can top up team members' cards.
+
+Potentially, a card owner can top up in fiat a card from another place where he passed KYC so the sender name and the receiver name is the same.
+It is hard or not possible to use these cards for fiat payouts from third-parties where sender and receiver names are different.
+
 At the same time, top-up from the user and in some cryptocurrencies is welcomed. 
 
 > Instant deposit with a crypto. Same-day deposit with cash.
