@@ -17,3 +17,5 @@ incentives:
       i: 0
     totals:
       word: 0.2
+timeLabels:
+  - name: "Time: <2 Weeks"
