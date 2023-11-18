@@ -1,5 +1,5 @@
-priceMultiplier: 2
-issueCreatorMultiplier: 2
+price-multiplier: 2
+issue-creator-multiplier: 2
 incentives:
   comment:
     elements:
