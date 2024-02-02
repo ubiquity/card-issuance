@@ -265,7 +265,7 @@ https://docs.safe.global/safe-core-aa-sdk/onramp-kit/guides/stripe
 Stripe provides services that are interesting to Ubiquity.
 To ensure the reliability of the account without the risk of its closure, we should comply with the requirements of the provider.
 
-1. It's better to have a company registered in a country supported by Stripe, probably not related to crypto.
+1. It's better to have a company registered in a country fully supported by Stripe, and probably company should not be related to crypto.
 South Korea and BVI are not included in the list of such countries.
 
 2. With a company registered in South Korea, we can apply for the Stripe Crypto payouts. 
